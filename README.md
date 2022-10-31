@@ -9,4 +9,4 @@ npm start
 
 # You can search any github user, see personal informations and latest repositories
 
-DEMO: https://github-finder-app-ppnn.vercel.app/
+## Demo of the application is at link on the right side in about section
